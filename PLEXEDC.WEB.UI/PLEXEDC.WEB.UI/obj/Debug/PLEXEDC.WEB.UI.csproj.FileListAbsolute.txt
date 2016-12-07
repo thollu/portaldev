@@ -75,6 +75,7 @@ C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\bin\Microsoft.Owin.Security.Microso
 C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\obj\Debug\PLEXEDC.WEB.UI.csprojResolveAssemblyReference.cache
 C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\obj\Debug\PLEXEDC.WEB.UI.dll
 C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\obj\Debug\PLEXEDC.WEB.UI.pdb
+<<<<<<< HEAD
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\bin\PLEXEDC.WEB.UI.dll.config
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\bin\PLEXEDC.WEB.UI.dll
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\bin\PLEXEDC.WEB.UI.pdb
@@ -154,3 +155,6 @@ C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\bin\Microsoft.Owin.Security.Mi
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\obj\Debug\PLEXEDC.WEB.UI.csprojResolveAssemblyReference.cache
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\obj\Debug\PLEXEDC.WEB.UI.dll
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\obj\Debug\PLEXEDC.WEB.UI.pdb
+=======
+C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI\bin\System.Web.Mvc.xml
+>>>>>>> 613040ad751cf350ccb8c3499525e95d1aca9650

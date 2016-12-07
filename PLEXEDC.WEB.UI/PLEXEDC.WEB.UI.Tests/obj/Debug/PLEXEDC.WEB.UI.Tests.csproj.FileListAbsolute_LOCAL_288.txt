@@ -56,7 +56,6 @@ C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\bin\Debug\Microsoft.Owin.Secu
 C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\obj\Debug\PLEXEDC.WEB.UI.Tests.csprojResolveAssemblyReference.cache
 C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\obj\Debug\PLEXEDC.WEB.UI.Tests.dll
 C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\obj\Debug\PLEXEDC.WEB.UI.Tests.pdb
-<<<<<<< HEAD
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\bin\Debug\PLEXEDC.WEB.UI.Tests.dll.config
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\bin\Debug\PLEXEDC.WEB.UI.Tests.dll
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\bin\Debug\PLEXEDC.WEB.UI.Tests.pdb
@@ -117,6 +116,3 @@ C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\bin\Debug\Microsoft.Owin
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\obj\Debug\PLEXEDC.WEB.UI.Tests.csprojResolveAssemblyReference.cache
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\obj\Debug\PLEXEDC.WEB.UI.Tests.dll
 C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\obj\Debug\PLEXEDC.WEB.UI.Tests.pdb
-=======
-C:\GitHub\portaldev\PLEXEDC.WEB.UI\PLEXEDC.WEB.UI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
->>>>>>> 613040ad751cf350ccb8c3499525e95d1aca9650
